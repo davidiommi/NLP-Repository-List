@@ -2,7 +2,7 @@
 List of github repositories with important/useful work materials
 
 ### Tutorials
-- _teaching-IR:_            $~~~~~~~~~~$          Open-Source Information Retrieval Courses @ TU Wien https://github.com/davidiommi/information-retrieval-2
+- _teaching-IR:_            $~~~~~~~~~~$          Open-Source Information Retrieval Courses @ TU Wien https://github.com/sebastian-hofstaetter/teaching
 - _hands-on-nltk-tutorial_: $~~~~~~~~~~~$         The hands-on NLTK tutorial for NLP in Python https://github.com/davidiommi/hands-on-nltk-tutorial
 - _information-retrieval-2_: $~~~~~~~~~~~$         Neural information retrieval / semantic-search / Bi-Encoders https://github.com/davidiommi/information-retrieval-2
 - _NLP-IN-PRACTICE_: $~~~~~~~~~~~$                     Starter code to solve real world text data problems.  https://github.com/davidiommi/nlp-in-practice
