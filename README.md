@@ -15,3 +15,8 @@ List of github repositories with important/useful work materials
 - _nanoGPT_: $~~~~~~~~~~~$                             The simplest, fastest repository for training/finetuning medium-sized GPTs. https://github.com/davidiommi/nanoGPT
 - _ng-video-lecture_: $~~~~~~~~~~~$                   Code created in the Neural Networks: Zero To Hero video lecture series, specifically on nanoGPT https://github.com/davidiommi/ng-video-lecture
 - _rake-nltk_: $~~~~~~~~~~~$                          Python implementation of the Rapid Automatic Keyword Extraction algorithm using NLTK. https://github.com/davidiommi/rake-nltk
+
+### Reinforcement-learning
+
+- Deep Reinforcement Learning Nanodegree: https://github.com/udacity/deep-reinforcement-learning
+- reinforcement-learning: https://github.com/dennybritz/reinforcement-learning
