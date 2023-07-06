@@ -20,3 +20,6 @@ List of github repositories with important/useful work materials
 
 - Deep Reinforcement Learning Nanodegree: https://github.com/udacity/deep-reinforcement-learning
 - reinforcement-learning: https://github.com/dennybritz/reinforcement-learning
+- Deep_reinforcement_learning_Course: https://github.com/simoninithomas/Deep_reinforcement_learning_Course
+
+  
