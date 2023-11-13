@@ -9,6 +9,7 @@ List of github repositories with important/useful work materials
 - _Transformers-for-NLP-2nd-Edition_: $~~~~~~~~~~~$    Under the hood working of transformers, fine-tuning GPT-3 models, DeBERTa, vision models https://github.com/davidiommi/Transformers-for-NLP-2nd-Edition
 - _transformers-tutorials_: $~~~~~~~~~~~$           Github repo with tutorials to fine tune transformers for diff NLP tasks https://github.com/davidiommi/transformers-tutorials
 - _Text-Mining-Course_: $~~~~~~~~~~~$                  Course Notes for Text Mining - Prof. Peter Organisciak https://github.com/davidiommi/Text-Mining-Course
+- _Generative_AI_LLMs_: $~~~~~~~~~~~$                  Coursera course on LLM and G_AI https://github.com/davidiommi/Generative_AI_LLMs/tree/main
 
 ### Specific applications
 - _graph4nlp_: $~~~~~~~~~~~$                          Graph4nlp is the library for the easy use of Graph Neural Networks for NLP. https://github.com/davidiommi/graph4nlp
