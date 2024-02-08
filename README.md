@@ -7,6 +7,7 @@ List of github repositories with important/useful work materials
 - _information-retrieval-2_: $~~~~~~~~~~~$         Neural information retrieval / semantic-search / Bi-Encoders https://github.com/davidiommi/information-retrieval-2
 - _NLP-IN-PRACTICE_: $~~~~~~~~~~~$                     Starter code to solve real world text data problems.  https://github.com/davidiommi/nlp-in-practice
 - _Transformers-for-NLP-2nd-Edition_: $~~~~~~~~~~~$    Under the hood working of transformers, fine-tuning GPT-3 models, DeBERTa, vision models https://github.com/davidiommi/Transformers-for-NLP-2nd-Edition
+- _NLP-Coursera:_            $~~~~~~~~~~$          https://github.com/davidiommi/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization
 - _transformers-tutorials_: $~~~~~~~~~~~$           Github repo with tutorials to fine tune transformers for diff NLP tasks https://github.com/davidiommi/transformers-tutorials
 - _Text-Mining-Course_: $~~~~~~~~~~~$                  Course Notes for Text Mining - Prof. Peter Organisciak https://github.com/davidiommi/Text-Mining-Course
 - _Generative_AI_LLMs_: $~~~~~~~~~~~$                  Coursera course on LLM and G_AI https://github.com/davidiommi/Generative_AI_LLMs/tree/main
