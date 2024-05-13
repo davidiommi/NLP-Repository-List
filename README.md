@@ -16,6 +16,8 @@ List of github repositories with important/useful work materials
   
 - _Diffusion-tutorials: $~~~~~~~~~~~$                  https://www.youtube.com/watch?v=i2qSxMVeVLI&ab_channel=Jia-BinHuang (math video), https://github.com/dome272/Diffusion-Models-pytorch, 
                                                      https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
+- _Diffusion4NLP-Papers: $~~~~~~~~~~~$                https://github.com/IndexFziQ/Diffusion4NLP-Papers?tab=readme-ov-file#diffusion4nlp-papers
+  
 
 
 ### Specific applications
