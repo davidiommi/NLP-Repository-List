@@ -11,7 +11,7 @@ List of github repositories with important/useful work materials
 - _transformers-tutorials_: $~~~~~~~~~~~$           Github repo with tutorials to fine tune transformers for diff NLP tasks https://github.com/davidiommi/transformers-tutorials
 - _Text-Mining-Course_: $~~~~~~~~~~~$                  Course Notes for Text Mining - Prof. Peter Organisciak https://github.com/davidiommi/Text-Mining-Course
 - _Generative_AI_LLMs_: $~~~~~~~~~~~$                  Coursera course on LLM and G_AI https://github.com/davidiommi/Generative_AI_LLMs/tree/main
-- _Diffusion-models_: $~~~~~~~~~~~$                  https://www.youtube.com/watch?v=HoKDTa5jHvg&ab_channel=Outlier, https://github.com/dome272/Diffusion-Models-pytorch, 
+- _Diffusion-models_: $~~~~~~~~~~~$                  https://www.youtube.com/watch?v=i2qSxMVeVLI&ab_channel=Jia-BinHuang, https://github.com/dome272/Diffusion-Models-pytorch, 
                                                      https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
 
